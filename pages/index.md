@@ -4,9 +4,12 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: YH
 ---
 
-Jekyll Garden is a simple theme that turns your Obsidian notes into a beautiful website. If you use Obsidian for note-taking, this theme makes it easy to publish your markdown files as a connected website with wiki-style links and full-text search.
+# Hi, I'm yhc.
 
-Start by reading [[Getting Started]] to set up your own Jekyll Garden. Learn how to use [[Wiki Links]] to connect your notes, explore the [[Markdown Guide]] for formatting, and customize your site with the [[Customization]] guide. When you're ready to share your notes online, follow the [[Deployment]] instructions.
+雜食讀者與樂迷，關注媒體、科技、文化、自然議題。
+
+喜歡[收信](mailto:yhchangcc@proton.me)，也在 [LinkedIn](https://www.linkedin.com/in/yhchangcc/)、[Facebook](https://www.facebook.com/yhchangcc)、[Instagram](https://www.instagram.com/yhchang.cc/)、[Threads](https://www.threads.com/@yhchang.cc)、[X](https://x.com/yhchangcc)、[Bluesky](https://bsky.app/profile/yhc.bsky.social) 等地浮潛，偶爾冒出水面。
+

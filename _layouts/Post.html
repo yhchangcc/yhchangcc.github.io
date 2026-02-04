@@ -76,6 +76,14 @@
                 {%- include Feed.html -%}
             {%- endif -%}
 
+            <!--- Writing Feed Layout-->
+            {%- if page.permalink == "/writing" -%}
+                <h1>{{page.title}}</h1>
+                {%- include Content.html -%}
+                {%- include Search.html -%}
+                {%- include Feed.html -%}
+            {%- endif -%}
+
             <!--- Notes Layout-->
             {%- if page.content-type == "notes" -%}
                 <h1>{{page.title}}</h1>

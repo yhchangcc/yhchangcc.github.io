@@ -1,5 +1,6 @@
 <!-- feed with filter-->
 <div class="related-wrapper">
+{% if site.notes and site.notes.size > 0 %}
 {% assign note_items = site.notes | sort: "date" | reverse %}
 {% for note_items in note_items %}
     {%- if note_items.feed == "show" -%}
@@ -10,4 +11,5 @@
             </div>
     {%- endif -%}
 {%- endfor -%}
+{% endif %}
 </div>

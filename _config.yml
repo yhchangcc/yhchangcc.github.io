@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: false
+    enabled: true
   search:
     enabled: true
   backlinks:
@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
+title: "yhc"
+heading: "Yung Hsin"
+description: "Idea, essays, and projects by Yung Hsin"
+url: "https://yhchangcc.github.io"
 baseurl: ""
 
 # Asset Configuration
@@ -48,16 +48,17 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
-  - title: "Blog"
-    url: "/blog"
   - title: "About"
     url: "/about"
+  - title: "Now"
+    url: "/now"
+  - title: "Writing"
+    url: "/writing"
+
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2025 Yung Hsin Chang. "
   credits:
     enabled: true
     url: "/credits"
